@@ -1,0 +1,4 @@
+train: C:/Users/asusg/Documents/Codding/AI-LabView/datasets/dataset/train/
+val: C:/Users/asusg/Documents/Codding/AI-LabView/datasets/dataset/valid/
+nc: 6
+names: ["bus", "car", "motorbike", "threewheel", "truck", "van"]
